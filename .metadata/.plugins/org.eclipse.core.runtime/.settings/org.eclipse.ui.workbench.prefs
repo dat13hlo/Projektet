@@ -1,6 +1,7 @@
-ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.egit.ui.GitTheme\tTorg.eclipse.wst.sse.ui
-ColorsAndFontsPreferencePage.selectedElement=Torg.eclipse.ui.presentation.default
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.egit.ui.GitTheme
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.egit.ui.CommitMessageEditorFont
 PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
 eclipse.preferences.version=1
+org.eclipse.egit.ui.CommitMessageEditorFont=1|Courier New|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|49|Courier New;
 org.eclipse.ui.workbench.TAB_TEXT_FONT=1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI;
 org.eclipse.wst.sse.ui.textfont=1|Constantia|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|18|Constantia;
